@@ -2,7 +2,7 @@ Payssion application for Invision Community / IP Board
 =================
 
 <h3>Thanks</h3>
-thanks to [@ABSAhmad](https://github.com/ABSAhmad) for providing the source code.
+thanks to @ABSAhmad(https://github.com/ABSAhmad/IpsPayssionGateway) for providing the source code.
 
 <h4>Installation</h4>
 
